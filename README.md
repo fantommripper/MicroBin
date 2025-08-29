@@ -24,12 +24,12 @@ MicroBin — это легковесное и простое приложени�
 
 <p align="center">
 <h3>Светлая тема</h3>
-<img src="assets/images/light_theme_empty.png" alt="Светлая тема, пустая корзина" width="300"/>
-<img src="assets/images/light_theme_full.png" alt="Светлая тема, полная корзина" width="300"/>
+<img src="assets/images/bin_empty_light.png" alt="Светлая тема, пустая корзина" width="300"/>
+<img src="assets/images/bin_full_light.png" alt="Светлая тема, полная корзина" width="300"/>
 
 <h3>Темная тема</h3>
-<img src="assets/images/dark_theme_empty.png" alt="Темная тема, пустая корзина" width="300"/>
-<img src="assets/images/dark_theme_full.png" alt="Темная тема, полная корзина" width="300"/>
+<img src="assets/images/bin_empty_dark.png" alt="Темная тема, пустая корзина" width="300"/>
+<img src="assets/images/bin_full_dark.png" alt="Темная тема, полная корзина" width="300"/>
 </p>
 
 <h2>⚙️ Установка</h2>
@@ -46,7 +46,7 @@ MicroBin — это легковесное и простое приложени�
 
 1. Клонируйте репозиторий:
 ```Bash
-git clone https://github.com/ваш_пользователь/MicroBin.git
+git clone https://github.com/fantommripper/MicroBin
 cd MicroBin
 ```
 2. Установите необходимые библиотеки. Создайте файл requirements.txt в корне проекта и добавьте в негоследующие строки:
