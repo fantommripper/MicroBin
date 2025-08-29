@@ -24,12 +24,12 @@ MicroBin — это легковесное и простое приложени�
 
 <p align="center">
 <h3>Светлая тема</h3>
-<img src="assets/images/bin_empty_light.png" alt="Светлая тема, пустая корзина" width="300"/>
-<img src="assets/images/bin_full_light.png" alt="Светлая тема, полная корзина" width="300"/>
+<img src="assets/images/bin_empty_light.png" alt="Светлая тема, пустая корзина" width="300" float="left"/>
+<img src="assets/images/bin_full_light.png" alt="Светлая тема, полная корзина" width="300" float="right"/>
 
 <h3>Темная тема</h3>
-<img src="assets/images/bin_empty_dark.png" alt="Темная тема, пустая корзина" width="300"/>
-<img src="assets/images/bin_full_dark.png" alt="Темная тема, полная корзина" width="300"/>
+<img src="assets/images/bin_empty_dark.png" alt="Темная тема, пустая корзина" width="300" float="left"/>
+<img src="assets/images/bin_full_dark.png" alt="Темная тема, полная корзина" width="300" float="right"/>
 </p>
 
 <h2>⚙️ Установка</h2>
